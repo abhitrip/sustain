@@ -9,8 +9,8 @@ safe: true
 
 
 # edit here to achieve your personal greatness
-url: http://username.github.io/
-baseurl: /sustain/
+url: http://username.github.io
+baseurl: /
 title: Abhijit Tripathy
 author: Abhijit Tripathy
 description: Personal blog and resume
